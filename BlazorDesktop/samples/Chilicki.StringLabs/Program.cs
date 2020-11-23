@@ -10,7 +10,7 @@ namespace Chilicki.StringLabs
         {
             ComponentsDesktop.Run<Startup>("index.html", form =>
             {
-                form.Text = "MyDesktopApp";
+                form.Text = "Chilicki String Labs";
             });
         }
     }
