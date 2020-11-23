@@ -1,7 +1,7 @@
 ﻿using Microsoft.AspNetCore.Components.Desktop;
 using System;
 
-namespace MyDesktopApp
+namespace Chilicki.StringLabs
 {
     public class Program
     {
